@@ -6,7 +6,7 @@
 ###### h6 heading
 
 ## Horizontal Rules
-__
+____
 
 **This is bold text**
 
@@ -78,6 +78,7 @@ console.log(foo(5));
 | ext    | extension to be used for dest files. |
 
 Right aligned columns
+
 | Option | Description |
 | ------:| -----------:|
 | data   | path to data files to supply the data that will be passed into templates. |
